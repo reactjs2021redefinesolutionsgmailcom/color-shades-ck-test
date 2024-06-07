@@ -1,0 +1,24 @@
+{
+  "name": "color-shades-ck-test",
+  "version": "1.0.0",
+  "description": "customCreateShades",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "rtck-color-shades"
+  ],
+  "author": "Chandan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactjs2021redefinesolutionsgmailcom/color-shades-ck-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/reactjs2021redefinesolutionsgmailcom/color-shades-ck-test/issues"
+  },
+  "homepage": "https://github.com/reactjs2021redefinesolutionsgmailcom/color-shades-ck-test#readme"
+}
