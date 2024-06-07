@@ -1,18 +1,18 @@
-Hi friends, this package will return you some shades related to given color,
+# Color Shades CK Test Package
 
-this is a copied code from code-shades itself ,
+Welcome to the **Color Shades CK Test Package**! This package allows you to generate various shades of a given color. It was adapted from the original code-shades package after resolving some issues to better suit my needs.
 
-actually this package was returning some error so i tried to resolve that and use the same because it is a package which was helping me out in some task,
+## Features
 
-this is how you can use it.
+- Generate a variety of shades for a given color.
+- Easy integration into your JavaScript projects.
 
-import customCreateShades from "color-shades-ck-test"
+## Installation
 
-<!-- once you pass some color here inside customCreateShades, than you will get available shades of 10 color. -->
+To get started, you need to install the package via npm:
 
-const RedShades = customCreateShades("#011b2b");
-
-console.log("RedShades ", RedShades);
+```bash
+npm install color-shades-ck-test
 
 <!-- which can be seen like this  -->
 
@@ -185,3 +185,4 @@ boundaries: [
 },
 name: 'sky'
 }
+```
