@@ -1,7 +1,7 @@
 {
-  "name": "color-shades-ck-test",
+  "name": "color-shades",
   "version": "1.3.0",
-  "description": "customCreateShades",
+  "description": "color-shades",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "rtck-color-shades"
+    "color-shades"
   ],
   "author": "Chandan",
   "license": "ISC",
