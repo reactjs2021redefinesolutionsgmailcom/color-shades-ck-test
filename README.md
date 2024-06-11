@@ -12,7 +12,7 @@ Welcome to the **Color Shades CK Test Package**! This package allows you to gene
 To get started, you need to install the package via npm:
 
 ````bash
-npm install color-shades
+npm install color_shades_new
 
 Below is the JSON representation of the Color Shades Manager, showing the details of various color shades.
 ```json
