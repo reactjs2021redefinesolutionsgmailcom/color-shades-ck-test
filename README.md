@@ -1,6 +1,6 @@
-# Color Shades CK Test Package
+# Color Shades New
 
-Welcome to the **Color Shades CK Test Package**! This package allows you to generate various shades of a given color. It was adapted from the original code-shades package after resolving some issues to better suit my needs.
+Welcome to the **Color Shades New**! This package allows you to generate various shades of a given color. It was adapted from the original code-shades package after resolving some issues to better suit my needs.
 
 ## Features
 
